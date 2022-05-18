@@ -1,2 +1,2 @@
 # Python-Datascales
-Brief tutorial on datascales in Data Analytics using Python.
+Comprehensive tutorial on datascales in Data Analytics using Python.
